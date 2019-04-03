@@ -3,19 +3,19 @@
 *
 * 1. Window Binding 
 
-
+Window binding is when it wants to bind to the global "window"
 
 * 2. Implicit Binding
 
-
+Implicit binding is when dot notation is used to invoke a function.
 
 * 3. New Binding
 
-
+A new binding is a binding that you can store in a variable and use later. 
 
 * 4. Explicit Binding
 
-
+Explicit binding is when .call() .apply() or .bind() are used on a function.
 
 * 
 * write out a code example of each explanation above
